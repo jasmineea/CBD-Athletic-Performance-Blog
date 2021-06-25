@@ -121,6 +121,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px;
 }
 
+.fitness-img {
+  background-image: url('img/CBD_Blog_01.jpg');
+  background-position: left;
+  background-size: cover;
+}
+
 
 @media only screen and (max-width: 600px) {
 .fairwinds-logo {
