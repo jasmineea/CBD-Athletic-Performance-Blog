@@ -128,6 +128,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+
+
 @media only screen and (max-width: 600px) {
 .fairwinds-logo {
       margin-left: -140px; 
@@ -136,5 +138,14 @@ h1, h2, h3, h4, h5, h6 {
   .blog-post-title {
     font-size: 1.8rem;
     text-align: center;
+  }
+
+  .blog-img {
+    width: 300px;
+    padding: 0;
+  }
+
+  .img-box {
+    padding: 0;
   }
 }
